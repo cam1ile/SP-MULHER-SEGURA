@@ -1,7 +1,0 @@
-Auto Avaliação da Camile
-
-Este ano eu aprendi e conheci sobre a programação orientada a objetos, conheci seus conceitos como herança, abstração, polimorfismo e encapsulamento. Também aprendi mais do que já sabia sobre o github, versionamento de código.
-
-Eu melhorei em compreender melhor a lógica de programação, desenvolver códigos e entender os conteúdos na prática. Também agradeço a professora Camila pela dedicação, paciência e pela forma como explicou os assuntos ajudando não só no meu aprendizado como no da turma.
-
-Minha meta em 2027 é aprofundar meus conhecimentos em programação, praticar mais, ter mais confiança pra trabalhar nessa área.
